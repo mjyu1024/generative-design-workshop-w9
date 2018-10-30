@@ -16,5 +16,5 @@
 ![adidas](https://media.gq.com/photos/58e7c01f8e4ae708183f91ba/3:2/w_1200/adidas-futurecraft-4d-sneaker-00.jpg)<br />
 [*Adidas futurecraft 4D-video*](https://www.adidas.com/5280/campaigns/main_video_desktop.mp4)<br />
 ## Intralattice
-![pic](generative-design-workshop-w9/intralattice.png)<br />
-[*Grasshopper file*](generative-design-workshop-w9/honeycomb.gh)<br />
+![pic](https://github.com/mjyu1024/generative-design-workshop-w9/blob/master/intralattice.png)<br />
+[*Grasshopper file*](https://github.com/mjyu1024/generative-design-workshop-w9/blob/master/honeycomb.gh)<br />
